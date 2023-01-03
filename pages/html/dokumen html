@@ -1,0 +1,32 @@
+## Basic html
+## Dokumen html
+Dokumen HTML harus dimulai dengan deklarasi tipe dokumen <!DOCTYPE html>
+Dokumen HTML harus mempunyai tag html.Dimulai dengan tag pembuka <html> dan diakhiri dengan tag penutup </html>
+Dokumen HTMl harus mempunyai tag head.Dimulai dengan tag pembuka <head> dan diakhiri dengan tag penutup </head>
+Dokumen HTML harus mempunyai tag body.Dimulai dengan tag pembuka <body> dan diakhiri dengan tag penutup </body>
+Elemen HTML harus terletak di dalam tag body.
+
+Contoh Dokumen HTML
+ <html>
+<head>
+    <title>Ini judul dokumen </title>
+	</head>
+  </body>
+  <h1 align="right">heading 1</h1>
+  <h2 align="left">heading 2</h2>
+  <h3 align="center">Heading 3</h3>
+
+</body>
+</html>
+
+<!DOCTYPE html> <html lang="en">
+<head>
+    <title>Demo atribut link</title>
+</head>
+<body> 
+    
+  <a  herf="link2.html" target="_blank" title " tiile="link">Klik di sini</a>
+</body>
+</html
+
+
